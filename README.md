@@ -1,6 +1,6 @@
 # InterLearn
 
-Benvenuti su **InterLearn**, il tuo servizio gratuito di riferimento per documentazioni e corsi di avanzamento professionale in ambito ICT. La nostra missione è quella di fornire risorse di alta qualità per aiutare professionisti e appassionati di tecnologia a migliorare le proprie competenze e rimanere aggiornati con le ultime tendenze del settore.
+Benvenuti su **InterLearn**, il tuo servizio gratuito di riferimento per documentazioni e corsi di formazione professionale in ambito ICT. La nostra missione è quella di fornire risorse di alta qualità per aiutare professionisti e appassionati di tecnologia a migliorare le proprie competenze e rimanere aggiornati con le ultime tendenze del settore.
 
 ## Chi Siamo
 
@@ -40,7 +40,7 @@ Siamo una comunità open-source e accogliamo con entusiasmo i contributi. Se vuo
 
 ## Contatti
 
-Per qualsiasi domanda o suggerimento, non esitare a contattarci tramite i nostri canali social o via email a: support@interlearn.com
+Per qualsiasi domanda o suggerimento, non esitare a contattarci tramite i nostri canali social o via email a: main.interlearn@gmail.com
 
 ---
 
