@@ -26,7 +26,7 @@ Puoi trovare tutte le nostre risorse sui seguenti canali:
   [InterLearn su GitHub](https://github.com/InterLearn)
 
 - **Google Drive**: Accedi ai nostri materiali didattici e risorse aggiuntive.  
-  [InterLearn su Google Drive](https://drive.google.com/drive/folders/InterLearn)
+  [InterLearn su Google Drive](https://drive.google.com/drive/folders/1B7h2poX84c_MXB8uSBfa9WcY-08j7HaK?usp=sharing)
 
 ## Contributi
 
