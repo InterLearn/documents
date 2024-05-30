@@ -1,47 +1,47 @@
 # InterLearn
 
-Benvenuti su **InterLearn**, il tuo servizio gratuito di riferimento per documentazioni e corsi di formazione professionale in ambito ICT. La nostra missione è quella di fornire risorse di alta qualità per aiutare professionisti e appassionati di tecnologia a migliorare le proprie competenze e rimanere aggiornati con le ultime tendenze del settore.
+Welcome to **InterLearn**, your free go-to service for documentation and professional training courses in the ICT field. Our mission is to provide high-quality resources to help professionals and technology enthusiasts improve their skills and stay updated with the latest industry trends.
 
-## Chi Siamo
+## About Us
 
-InterLearn è una piattaforma gratuita che offre:
-- Documentazioni dettagliate su vari argomenti ICT.
-- Corsi di avanzamento professionale per migliorare le tue competenze.
-- Una comunità di professionisti pronta a collaborare e condividere conoscenze.
+InterLearn is a free platform that offers:
+- Detailed documentation on various ICT topics.
+- Professional advancement courses to enhance your skills.
+- A community of professionals ready to collaborate and share knowledge.
 
-## Risorse Disponibili
+## Available Resources
 
-Puoi trovare tutte le nostre risorse sui seguenti canali:
+You can find all our resources on the following channels:
 
-- **Instagram**: Seguici per aggiornamenti regolari, tips & tricks, e contenuti motivazionali.  
-  [InterLearn su Instagram](https://www.instagram.com/interlearn.it)
+- **Instagram**: Follow us for regular updates, tips & tricks, and motivational content.  
+  [InterLearn on Instagram](https://www.instagram.com/interlearn.it)
 
-- **LinkedIn**: Connettiti con noi per articoli professionali, novità del settore e opportunità di networking.  
-  [InterLearn su LinkedIn](https://www.linkedin.com/in/interlearn-onlus-0bb304310/)
+- **LinkedIn**: Connect with us for professional articles, industry news, and networking opportunities.  
+  [InterLearn on LinkedIn](https://www.linkedin.com/in/interlearn-onlus-0bb304310/)
 
-- **SlideShare**: Sfoglia le nostre presentazioni e slide per approfondimenti e guide tecniche.  
-  [InterLearn su SlideShare](https://www.slideshare.net/maininterlearn)
+- **SlideShare**: Browse our presentations and slides for in-depth guides and technical insights.  
+  [InterLearn on SlideShare](https://www.slideshare.net/maininterlearn)
 
-- **GitHub**: Esplora i nostri repository per progetti open source, documentazioni e strumenti.  
-  [InterLearn su GitHub](https://github.com/InterLearn)
+- **GitHub**: Explore our repositories for open-source projects, documentation, and tools.  
+  [InterLearn on GitHub](https://github.com/InterLearn)
 
-- **Google Drive**: Accedi ai nostri materiali didattici e risorse aggiuntive.  
-  [InterLearn su Google Drive](https://drive.google.com/drive/folders/1B7h2poX84c_MXB8uSBfa9WcY-08j7HaK?usp=sharing)
+- **Google Drive**: Access our educational materials and additional resources.  
+  [InterLearn on Google Drive](https://drive.google.com/drive/folders/1B7h2poX84c_MXB8uSBfa9WcY-08j7HaK?usp=sharing)
 
-## Contributi
+## Contributions
 
-Siamo una comunità open-source e accogliamo con entusiasmo i contributi. Se vuoi contribuire con la tua conoscenza o migliorare il nostro codice, segui questi semplici passi:
+We are an open-source community and enthusiastically welcome contributions. If you want to share your knowledge or improve our code, follow these simple steps:
 
-1. Fai un fork del repository
-2. Crea un branch per la tua feature (`git checkout -b feature/AmazingFeature`)
-3. Fai il commit delle tue modifiche (`git commit -m 'Add some AmazingFeature'`)
-4. Fai il push del branch (`git push origin feature/AmazingFeature`)
-5. Apri una pull request
+1. Fork the repository
+2. Create a branch for your feature (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a pull request
 
-## Contatti
+## Contact
 
-Per qualsiasi domanda o suggerimento, non esitare a contattarci tramite i nostri canali social o via email a: main.interlearn@gmail.com
+For any questions or suggestions, feel free to contact us through our social channels or via email at: main.interlearn@gmail.com
 
 ---
 
-Grazie per il tuo supporto! Siamo entusiasti di avere te come parte della nostra comunità di apprendimento.
+Thank you for your support! We are excited to have you as part of our learning community.
