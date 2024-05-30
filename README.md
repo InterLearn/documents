@@ -14,13 +14,13 @@ InterLearn è una piattaforma gratuita che offre:
 Puoi trovare tutte le nostre risorse sui seguenti canali:
 
 - **Instagram**: Seguici per aggiornamenti regolari, tips & tricks, e contenuti motivazionali.  
-  [InterLearn su Instagram](https://www.instagram.com/InterLearn)
+  [InterLearn su Instagram](https://www.instagram.com/interlearn.it)
 
 - **LinkedIn**: Connettiti con noi per articoli professionali, novità del settore e opportunità di networking.  
-  [InterLearn su LinkedIn](https://www.linkedin.com/company/InterLearn)
+  [InterLearn su LinkedIn](https://www.linkedin.com/in/interlearn-onlus-0bb304310/)
 
 - **SlideShare**: Sfoglia le nostre presentazioni e slide per approfondimenti e guide tecniche.  
-  [InterLearn su SlideShare](https://www.slideshare.net/InterLearn)
+  [InterLearn su SlideShare](https://www.slideshare.net/maininterlearn)
 
 - **GitHub**: Esplora i nostri repository per progetti open source, documentazioni e strumenti.  
   [InterLearn su GitHub](https://github.com/InterLearn)
